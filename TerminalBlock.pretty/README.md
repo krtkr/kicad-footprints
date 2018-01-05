@@ -5,6 +5,7 @@ This repository contains footprints for various terminal blocks that do not have
 Existing manufacturer-specific libraries are:
 
 * ../TerminalBlock_4UCON.pretty
+* ../TerminalBlock_KaiFeng.pretty
 * ../TerminalBlock_MetzConnect.pretty
 * ../TerminalBlock_Phoenix.pretty
 * ../TerminalBlock_Philmore.pretty
