@@ -56,7 +56,7 @@
   (pad 7 thru_hole circle (at 15.24 5.08) (size 1.8 1.8) (drill 1.2) (layers *.Cu *.Mask))
   (pad 8 thru_hole circle (at 17.78 0) (size 1.8 1.8) (drill 1.2) (layers *.Cu *.Mask))
   (pad 8 thru_hole circle (at 17.78 5.08) (size 1.8 1.8) (drill 1.2) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/TerminalBlock.3dshapes/TerminalBlock_KaiFeng_KF141R-8_1x08_P2.54mm.wrl
+  (model ${KISYS3DMOD}/TerminalBlock_KaiFeng.3dshapes/TerminalBlock_KaiFeng_KF141R-8_1x08_P2.54mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
